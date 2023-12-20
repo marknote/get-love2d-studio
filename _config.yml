@@ -41,7 +41,9 @@ features                                  :
   - title                                 : Powerful app runner
     description                           : Run your code directly to see the effect
     fontawesome_icon_name                 : magic
-    
+  - title                                 : Open file system
+    description                           : Your data are accessible from the 'Files' and other apps
+    fontawesome_icon_name                 : adjust 
 
 
 
