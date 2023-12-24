@@ -5,4 +5,5 @@ include_in_header: true
 ---
 
 # Changelog
-Comming soon
+- Dec 25, 2023: .love import, bigger editor
+- Dec 20, 2023: 1st public available version
